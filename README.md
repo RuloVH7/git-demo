@@ -1,3 +1,3 @@
 # Demo repository 
 
-This is the demo of my github configuration
+This is the demo of my github configuration! :D
